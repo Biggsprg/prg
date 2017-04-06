@@ -1,0 +1,19 @@
+{
+  "name": "prg",
+  "version": "0.0.1",
+  "description": "This is a game using phaserjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biggsprg/prg.git"
+  },
+  "author": "Biggsprg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Biggsprg/prg/issues"
+  },
+  "homepage": "https://github.com/Biggsprg/prg#readme"
+}
